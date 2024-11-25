@@ -5,9 +5,9 @@ Welcome to Alfred Kick Bot , the ultimate solution for boosting your Kick channe
 KickBot is a robust tool designed to enhance your streaming experience on Kick. Here’s what sets it apart:
 
 🛡️ Stable Proxies: Enjoy reliable and high-speed proxies, ensuring smooth and consistent performance.
-🔑 Key-Based Licensing: Secure access with our user-friendly key system.
-📈 Performance Optimized: Built for stability and efficiency, even during high-traffic times.
-🌐 User-Friendly Dashboard: Easy to use for every user you can use it on your phone too! 
+*🔑 Key-Based Licensing: Secure access with our user-friendly key system.
+*📈 Performance Optimized: Built for stability and efficiency, even during high-traffic times.
+*🌐 User-Friendly Dashboard: Easy to use for every user you can use it on your phone too! 
 
 # 🎯 Why Choose KickBot?
 * Enhanced Visibility: Grow your channel with targeted viewer engagement.
