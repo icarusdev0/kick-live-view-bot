@@ -4,6 +4,9 @@ Welcome to Alfred Kick Bot , the ultimate solution for boosting your Kick channe
 # 🚀 What is Kick live view bot?
 KickBot is a robust tool designed to enhance your streaming experience on Kick. Here’s what sets it apart:
 
+
+# UPDATED LAST UPDATED 09/07/2025 WORKING ! 
+
 * 🛡️ Stable Proxies: Enjoy reliable and high-speed proxies, ensuring smooth and consistent performance.
 * 🔑 Key-Based Licensing: Secure access with our user-friendly key system.
 * 📈 Performance Optimized: Built for stability and efficiency, even during high-traffic times.
@@ -17,4 +20,4 @@ KickBot is a robust tool designed to enhance your streaming experience on Kick. 
 
 # 📩 Get Started Today
 Join our Discord community to purchase your license and gain exclusive access:
-👉 discord.gg/icarus
+👉 discord.gg/alfredtools
