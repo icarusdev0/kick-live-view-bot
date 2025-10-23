@@ -5,7 +5,7 @@ Welcome to Alfred Kick Bot , the ultimate solution for boosting your Kick channe
 KickBot is a robust tool designed to enhance your streaming experience on Kick. Here’s what sets it apart:
 
 
-# UPDATED LAST UPDATED 09/07/2025 WORKING ! 
+# UPDATED LAST UPDATED 10/24/2025 WORKING ! 
 
 * 🛡️ Stable Proxies: Enjoy reliable and high-speed proxies, ensuring smooth and consistent performance.
 * 🔑 Key-Based Licensing: Secure access with our user-friendly key system.
@@ -20,4 +20,4 @@ KickBot is a robust tool designed to enhance your streaming experience on Kick. 
 
 # 📩 Get Started Today
 Join our Discord community to purchase your license and gain exclusive access:
-👉 discord.gg/alfredtools
+👉 discord.gg/myTu9WRC9M
